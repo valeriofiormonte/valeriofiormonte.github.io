@@ -10,10 +10,9 @@ body {
   color: #1c1c1e;
 
   background:
-    radial-gradient(circle at 20% 20%, rgba(255,255,255,0.9), transparent 60%),
-    radial-gradient(circle at 80% 30%, rgba(220,230,255,0.8), transparent 55%),
-    radial-gradient(circle at 50% 80%, rgba(240,240,240,0.9), transparent 60%),
-    linear-gradient(135deg, #eef2f7, #e4e9f0);
+    radial-gradient(circle at 20% 30%, #dbeafe, #eef4fc 60%),
+    radial-gradient(circle at 80% 20%, #f0f7fa, #dde8f2 60%),
+    linear-gradient(135deg, #c1d6e4, #e0ecf7);
 }
 
 /* NAV */
